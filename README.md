@@ -19,6 +19,7 @@ Features
 - CMD-K menu with photo search
 - Experimental support for AI-generated descriptions
 - Support for Fujifilm simulations
+- Test
 
 <img src="/readme/og-image-share.png" alt="OG Image Preview" width=600 />
 
